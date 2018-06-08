@@ -5,6 +5,7 @@ author: leohige
 date: 2018-06-08
 tags: featured
 category: Ruby Server
+comments: true
 ---
 
 
