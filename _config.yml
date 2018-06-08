@@ -67,10 +67,10 @@ google_analytics:
 google_maps_api_key:
 
 # Number of posts displayed on blog page
-paginate: 10
+#paginate: 10
 
 # Blog path
-paginate_path:      "/news/:num/"
+#paginate_path:      "/news/:num/"
 
 # Path to post content assets directory i.e post images, pdfs etc
 post_assets:        /assets/posts/
@@ -79,7 +79,7 @@ post_assets:        /assets/posts/
 markdown:           kramdown
 highlighter:        rouge
 
-gems:
+plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-gist
