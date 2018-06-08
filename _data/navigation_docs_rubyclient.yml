@@ -1,0 +1,6 @@
+- title: Getting Started
+  docs:
+  - rubyclient/home
+  - rubyclient/quickstart
+  - rubyclient/installation
+  - rubyclient/windows

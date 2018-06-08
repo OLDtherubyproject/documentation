@@ -1,0 +1,16 @@
+# Categories home page navigation
+
+- title: Ruby Server
+  desc: Learn everything about The Ruby Server
+  icon: server
+  doc: rubyserver/home
+
+- title: Ruby Client
+  desc: Learn everything about The Ruby Client
+  icon: desktop
+  doc: rubyclient/home
+
+- title: Ruby Website
+  desc: Learn everything about The Ruby Website
+  icon: world
+  doc: rubywebsite/home

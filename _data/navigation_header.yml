@@ -1,0 +1,12 @@
+# Navbar menu navigation links
+- title: Help
+  url: /
+
+- title: Changelog
+  url: /changelog/
+
+- title: Contact
+  url: /contact/
+
+- title: GitHub
+  url: https://github.com/therubyproject/
